@@ -10,6 +10,15 @@ body {
     background-image: url("Assets/images/smokey.jpg");
 }
 
+.navbar-brand {
+    background-color: #4aaaa5;
+    color: white !important;
+}
+
+.formheader {
+    color: #4aaaa5;
+}
+
 .footer {
     position: absolute;
     bottom: 0;
@@ -26,4 +35,10 @@ body {
 
 .footer-text {
     color: white;
+}
+
+form {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-top: 75px;
 }
