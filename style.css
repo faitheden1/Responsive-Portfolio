@@ -1,5 +1,6 @@
 h1{
     font-family: consolas;
+    color: teal;
 }
 
 p {
@@ -8,6 +9,9 @@ p {
 
 body {
     background-image: url("Assets/images/smokey.jpg");
+    background-color: #f1f1f1;
+
+    font-family: Arial;
 }
 
 .navbar-brand {
@@ -19,8 +23,8 @@ body {
     color: #4aaaa5;
 }
 
-.footer {
-    position: absolute;
+footer {
+    position: fixed;
     bottom: 0;
     width: 100%;
     height: 50px;
@@ -42,3 +46,34 @@ form {
     padding: 20px;
     margin-top: 75px;
 }
+
+
+.bg-1 {
+background-color: #1abc9c; /* Green */
+color: #ffffff;
+}
+.bg-2 {
+background-color: #474e5d; /* Dark Blue */
+color: #ffffff;
+}
+.bg-3 {
+background-color: #ffffff; /* White */
+color: #555555;
+}
+
+.boxes {
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+#bc{
+    width: 250px;
+    float: left;
+    margin: 10px 20px 5px 0px;
+}
+main{
+    margin-top: 5%;
+}
+
+
