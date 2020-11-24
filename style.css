@@ -67,6 +67,24 @@ color: #555555;
     margin-bottom: 30px;
 }
 
+.column0{
+    width: 250px;
+    float: left;
+    margin: 10px 20px 5px 50px;
+}
+
+.column1{
+    width: 250px;
+    float: left;
+    margin: 10px 20px 5px 50px;
+}
+
+.column2{
+    width: 250px;
+    float: center;
+    margin: 10px 20px 5px 0px;
+}
+
 #bc{
     width: 250px;
     float: left;
